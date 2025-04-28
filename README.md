@@ -12,7 +12,7 @@ This project provides a simple way to encrypt and decrypt messages using a secre
 ## 📋 How to Use
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Evilkiller01/Secure_message_platform.git
+   https://github.com/Evilkiller01/Secure_message_platform
 2. Navigate to the Project Folder
    cd Secure_message_platform
    Run the Script
